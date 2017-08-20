@@ -6,7 +6,10 @@ html {
 h1 {
   color: white;
   font-size: 70px;
-  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
 }
 
 .copyright {
