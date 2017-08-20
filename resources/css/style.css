@@ -3,9 +3,16 @@ html {
   text-align: center;
 }
 
-.footer {
+.copyright {
   font-size: 11px;
   color: white;
+}
+
+.footer {
   background-color: dimgray;
   text-align: left;
+}
+
+.header {
+  background-image: url("../images/the-flatiron-building.png");
 }
